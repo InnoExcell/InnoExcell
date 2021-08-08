@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 -->
 📫 To reach me, kindly send me a mail at inno4excellence@gmail.com or check out my github page: https://innoexcell.github.io/ for more details about me and what I do. 
 PS: The site is best viewed with a wide screen (Desktops and Laptops), or in Desktop mode (on mobile phones).
+
+Some of my web development training certificates include the following:
 <a href="https://www.learnenough.com/certificates/5ae4d790"><img src="https://www.learnenough.com/certificates/5ae4d790/command-line-tutorial.svg" alt="Certificate of Completion for Learn Enough Command Line"></a><a href="https://www.learnenough.com/certificates/5ae4d790"><img src="https://www.learnenough.com/certificates/5ae4d790/text-editor-tutorial.svg" alt="Certificate of Completion for Learn Enough Text Editor"></a><a href="https://www.learnenough.com/certificates/5ae4d790"><img src="https://www.learnenough.com/certificates/5ae4d790/git-tutorial.svg" alt="Certificate of Completion for Learn Enough Git"></a>
